@@ -1,0 +1,14 @@
+firmware/build/
+firmware/Debug/
+firmware/Release/
+firmware/.settings/
+*.o
+*.d
+*.su
+*.map
+*.elf
+*.bin
+__pycache__/
+*.pyc
+*.csv
+*.bin
